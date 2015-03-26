@@ -1,11 +1,11 @@
 {
   "name": "CSS3-Carousel",
   "homepage": "https://github.com/Garethp/CSS3-Carousel",
-  "_release": "f00a5debfe",
+  "_release": "07ed2c08b0",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "f00a5debfe0466ff9ee05edbb4cd7a0cdbe70be4"
+    "commit": "07ed2c08b05e21ff5f0a283e5812be666dfe73a1"
   },
   "_source": "git://github.com/Garethp/CSS3-Carousel.git",
   "_target": "*",

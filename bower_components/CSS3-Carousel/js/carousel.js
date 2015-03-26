@@ -1,4 +1,6 @@
-var carousel = {
+var Carousel = function (element, images, opts) { };
+
+Carousel.prototype = {
 	element: null,
 
 	images: [ ],
@@ -95,7 +97,7 @@ var carousel = {
 
 		var i = Array.prototype.indexOf.call(this.element.children, image);
 		var song = this.images[i][1];
-		
+
 		var audio = this.audio;
 		audio.pause();
 

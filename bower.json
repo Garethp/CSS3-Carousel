@@ -1,5 +1,8 @@
 {
   "name": "CSS3-Carousel-Page",
   "description": "The project page for Garethp/CSS3-Carousel",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "CSS3-Carousel": "Garethp/CSS3-Carousel"
+  }
 }
