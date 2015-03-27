@@ -73,6 +73,8 @@ Carousel.prototype = {
 		image.className = '';
 		next.className = 'current';
 
+		this.audio.pause();
+
 		if(this.autoPlay)
 			this.playMusic();
 	},
@@ -86,6 +88,8 @@ Carousel.prototype = {
 
 		image.className = '';
 		next.className = 'current';
+
+		this.audio.pause();
 
 		if(this.autoPlay)
 			this.playMusic();
